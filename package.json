@@ -1,0 +1,19 @@
+{
+  "name": "hello-rxjs",
+  "version": "1.0.0",
+  "description": "Just trying to learn RxJS, bit by bit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-kpheng/hello-rxjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-kpheng/hello-rxjs/issues"
+  },
+  "homepage": "https://github.com/v-kpheng/hello-rxjs#readme"
+}
